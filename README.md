@@ -24,6 +24,8 @@ With the power of OCR technology, our app enables users to effortlessly convert 
 ### About Screen
 ![IMG_7132](https://github.com/pchoi63/OiVision-iOS/assets/110645615/0a5b3093-568b-49e5-9f3a-12f7c9422265)
 
+[Watch App Demo](https://youtube.com/shorts/4Ho0qsuE4yI?feature=share)
+
 ## Usage
 1. Launch the app on your device.
 2. Capture an image using the in-app camera or upload an image from your device.
