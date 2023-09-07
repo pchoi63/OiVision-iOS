@@ -8,6 +8,8 @@ Reading small or poorly formatted text, such as physical mail, can be a signific
 Oi Vision was created by Oi Creation to address this issue directly. 
 With the power of OCR technology, our app enables users to effortlessly convert text from images into accessible formats, making tasks like reading physical mail more convenient.
 
+[Watch App Demo! - Youtube](https://youtube.com/shorts/4Ho0qsuE4yI?feature=share)
+
 ## Features
 - Capture or upload images for text recognition.
 - Real-time text recognition using the device camera.
@@ -23,8 +25,6 @@ With the power of OCR technology, our app enables users to effortlessly convert 
 
 ### About Screen
 ![IMG_7132](https://github.com/pchoi63/OiVision-iOS/assets/110645615/0a5b3093-568b-49e5-9f3a-12f7c9422265)
-
-[Watch App Demo](https://youtube.com/shorts/4Ho0qsuE4yI?feature=share)
 
 ## Usage
 1. Launch the app on your device.
