@@ -1,4 +1,4 @@
-# OiVision-iOS
+# OiVision - iOS 16
 
 ![recLogo](https://github.com/pchoi63/OiVision-iOS/assets/110645615/935b8e9b-2f24-4c70-ad85-068db9248ae2)
 
