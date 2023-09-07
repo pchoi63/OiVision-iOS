@@ -24,6 +24,7 @@ With the power of OCR technology, our app enables users to effortlessly convert 
 ![Hone Screen](https://github.com/pchoi63/OiVision-iOS/assets/110645615/ef8c9dae-473d-4715-b24b-a9d974e3574e)
 ### About Screen
 ![ReadMe](https://github.com/pchoi63/OiVision-iOS/assets/110645615/d6b20d82-d8df-4f12-8d04-a04191a84e34)
+![ReadMe](https://github.com/pchoi63/OiVision-iOS/assets/110645615/2492df63-d037-43eb-bc91-c9c3c8abf4d8)
 ### Camera View
 ![Camera View](https://github.com/pchoi63/OiVision-iOS/assets/110645615/f4525e9f-b204-4c86-856d-0db06aede148)
 ### Result
