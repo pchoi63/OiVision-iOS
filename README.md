@@ -21,10 +21,14 @@ With the power of OCR technology, our app enables users to effortlessly convert 
 
 ## Screenshots
 ### Home Screen
-![IMG_7133](https://github.com/pchoi63/OiVision-iOS/assets/110645615/681f34aa-1076-475d-9f4f-4cc92488e861)
-
+![Hone Screen](https://github.com/pchoi63/OiVision-iOS/assets/110645615/ef8c9dae-473d-4715-b24b-a9d974e3574e)
 ### About Screen
-![IMG_7132](https://github.com/pchoi63/OiVision-iOS/assets/110645615/0a5b3093-568b-49e5-9f3a-12f7c9422265)
+![ReadMe](https://github.com/pchoi63/OiVision-iOS/assets/110645615/d6b20d82-d8df-4f12-8d04-a04191a84e34)
+### Camera View
+![Camera View](https://github.com/pchoi63/OiVision-iOS/assets/110645615/f4525e9f-b204-4c86-856d-0db06aede148)
+### Result
+![Result](https://github.com/pchoi63/OiVision-iOS/assets/110645615/f6fcf9de-4ef7-49f6-bf58-b6552a4037b0)
+
 
 ## Usage
 1. Launch the app on your device.
