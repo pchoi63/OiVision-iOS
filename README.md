@@ -1,6 +1,7 @@
 # OiVision - iOS 16
 
-![recLogo](https://github.com/pchoi63/OiVision-iOS/assets/110645615/935b8e9b-2f24-4c70-ad85-068db9248ae2)
+![recLogo](https://github.com/pchoi63/OiVision-iOS/assets/110645615/a2cb533b-34f1-49d7-8195-20698c0a4e89)
+
 
 ## About
 Oi Vision is an iOS 16 application equipped with advanced OCR (Optical Character Recognition) technology, Apple Vision, to recognize text in images.
@@ -21,13 +22,14 @@ With the power of OCR technology, our app enables users to effortlessly convert 
 
 ## Screenshots
 ### Home Screen
-![Hone Screen](https://github.com/pchoi63/OiVision-iOS/assets/110645615/ef8c9dae-473d-4715-b24b-a9d974e3574e)
+![Home View](https://github.com/pchoi63/OiVision-iOS/assets/110645615/214d604d-bf45-4868-9c6f-335370a56df3)
 ### About Screen
 ![ReadMe](https://github.com/pchoi63/OiVision-iOS/assets/110645615/2492df63-d037-43eb-bc91-c9c3c8abf4d8)
 ### Camera View
-![Camera View](https://github.com/pchoi63/OiVision-iOS/assets/110645615/f4525e9f-b204-4c86-856d-0db06aede148)
+![Camera View](https://github.com/pchoi63/OiVision-iOS/assets/110645615/81f73ab5-944a-4de1-b7d4-e93fbf87a9f3)
 ### Result
-![Result](https://github.com/pchoi63/OiVision-iOS/assets/110645615/f6fcf9de-4ef7-49f6-bf58-b6552a4037b0)
+![Result](https://github.com/pchoi63/OiVision-iOS/assets/110645615/dd273c49-00c0-4ede-ad34-aa448c1bc96d)
+
 
 
 ## Usage
