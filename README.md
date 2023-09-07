@@ -1,8 +1,5 @@
 # OiVision - iOS 16
-
 ![recLogo](https://github.com/pchoi63/OiVision-iOS/assets/110645615/a2cb533b-34f1-49d7-8195-20698c0a4e89)
-
-
 ## About
 Oi Vision is an iOS 16 application equipped with advanced OCR (Optical Character Recognition) technology, Apple Vision, to recognize text in images.
 Reading small or poorly formatted text, such as physical mail, can be a significant obstacle for many individuals. 
